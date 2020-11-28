@@ -154,8 +154,30 @@ nav>a:hover
   -o-background : linear-gradient(#00f3ff70 0%, #91b2a9 100%);
 }
 
+th:first-child
+{
+	text-align : left;
+	padding : 0px 0px 0px 6px;
+}
 
-/*CSS code for the final assignment of this course ends here.*/
+td:first-child
+{
+	padding :  0px 0px 0px 6px;
+}
+
+td:nth-child(2)
+{
+	text-align : center;
+}
+
+td:last-child
+{
+	text-align : center;
+}
+
+
+
+/*CSS code for the final assignment of this course ends here.
 
 /*CSS code written below is for mobile and smartphone. They do not concern the final assignment of this course. I have written that just to make the website a little bit more responsive.*/
 
@@ -321,5 +343,26 @@ h2
 p
 {
 	font-size : 40%;
+}
+
+th:first-child
+{
+	text-align : left;
+	padding : 0px 0px 0px 6px;
+}
+
+td:first-child
+{
+	padding :  0px 0px 0px 6px;
+}
+
+td:nth-child(2)
+{
+	text-align : center;
+}
+
+td:last-child
+{
+	text-align : center;
 }
 }
