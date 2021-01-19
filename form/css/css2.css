@@ -1,0 +1,12 @@
+body
+{
+  background-image: linear-gradient(-45deg, #6E32FF, #22F5C6);
+  height: 100vh;
+}
+
+p
+{
+	font-size : 200%;
+	text-align: center;
+	margin-top: 20%;
+}
